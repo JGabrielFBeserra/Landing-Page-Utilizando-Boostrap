@@ -1,0 +1,14 @@
+{
+  "name": "brecho33",
+  "version": "1.0.0",
+  "description": "store website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JGabrielFbeserra",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
